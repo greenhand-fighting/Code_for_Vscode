@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Informer2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Informer2020/trainingdata/ETDataset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LaneATT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SETR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SegFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SimpleCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/awesome-semantic-segmentation-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deep-learning-for-image-processing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fusion_perception/EPNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fusion_perception/MV3D" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fusion_perception/MV3D/external_modules/didi-competition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fusion_perception/MV3D_TF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/genzong/Yolov5_DeepSort_Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/genzong/Yolov5_DeepSort_Pytorch/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn_released_carla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mmsegmentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/PointNet++/Pointnet2.PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/PointRCNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/PointRCNN/kitti_object_vis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/PointRCNN/pointnet2_lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/pointNet/pointnet.pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/point_perception/voxel/voxelnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rl/DDPG-Keras-Torcs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rl/Reinforcement-learning-with-tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vtd_interface" vcs="Git" />
+  </component>
+</project>
